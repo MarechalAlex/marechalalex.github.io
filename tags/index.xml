@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alexandre Maréchal</title>
-    <link>http://alexmarechal.com/tags/</link>
+    <link>https://marechalalex.github.io/tags/</link>
     <description>Recent content in Tags on Alexandre Maréchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://alexmarechal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marechalalex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>abstract interpretation</title>
-      <link>http://alexmarechal.com/tags/abstract-interpretation/</link>
+      <link>https://marechalalex.github.io/tags/abstract-interpretation/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/abstract-interpretation/</guid>
+      <guid>https://marechalalex.github.io/tags/abstract-interpretation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>convex polyhedra</title>
-      <link>http://alexmarechal.com/tags/convex-polyhedra/</link>
+      <link>https://marechalalex.github.io/tags/convex-polyhedra/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/convex-polyhedra/</guid>
+      <guid>https://marechalalex.github.io/tags/convex-polyhedra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coq</title>
-      <link>http://alexmarechal.com/tags/coq/</link>
+      <link>https://marechalalex.github.io/tags/coq/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/coq/</guid>
+      <guid>https://marechalalex.github.io/tags/coq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linearization</title>
-      <link>http://alexmarechal.com/tags/linearization/</link>
+      <link>https://marechalalex.github.io/tags/linearization/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/linearization/</guid>
+      <guid>https://marechalalex.github.io/tags/linearization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>result certification</title>
-      <link>http://alexmarechal.com/tags/result-certification/</link>
+      <link>https://marechalalex.github.io/tags/result-certification/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/result-certification/</guid>
+      <guid>https://marechalalex.github.io/tags/result-certification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>convex hull</title>
-      <link>http://alexmarechal.com/tags/convex-hull/</link>
+      <link>https://marechalalex.github.io/tags/convex-hull/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/convex-hull/</guid>
+      <guid>https://marechalalex.github.io/tags/convex-hull/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projection</title>
-      <link>http://alexmarechal.com/tags/projection/</link>
+      <link>https://marechalalex.github.io/tags/projection/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/projection/</guid>
+      <guid>https://marechalalex.github.io/tags/projection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>algorithm</title>
-      <link>http://alexmarechal.com/tags/algorithm/</link>
+      <link>https://marechalalex.github.io/tags/algorithm/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/algorithm/</guid>
+      <guid>https://marechalalex.github.io/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linear arithmetic</title>
-      <link>http://alexmarechal.com/tags/linear-arithmetic/</link>
+      <link>https://marechalalex.github.io/tags/linear-arithmetic/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/linear-arithmetic/</guid>
+      <guid>https://marechalalex.github.io/tags/linear-arithmetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>simplex algorithm</title>
-      <link>http://alexmarechal.com/tags/simplex-algorithm/</link>
+      <link>https://marechalalex.github.io/tags/simplex-algorithm/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/simplex-algorithm/</guid>
+      <guid>https://marechalalex.github.io/tags/simplex-algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parametric Linear Programming</title>
-      <link>http://alexmarechal.com/tags/parametric-linear-programming/</link>
+      <link>https://marechalalex.github.io/tags/parametric-linear-programming/</link>
       <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/parametric-linear-programming/</guid>
+      <guid>https://marechalalex.github.io/tags/parametric-linear-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raytracing</title>
-      <link>http://alexmarechal.com/tags/raytracing/</link>
+      <link>https://marechalalex.github.io/tags/raytracing/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/raytracing/</guid>
+      <guid>https://marechalalex.github.io/tags/raytracing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>http://alexmarechal.com/tags/apache/</link>
+      <link>https://marechalalex.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/apache/</guid>
+      <guid>https://marechalalex.github.io/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>http://alexmarechal.com/tags/redirect/</link>
+      <link>https://marechalalex.github.io/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/redirect/</guid>
+      <guid>https://marechalalex.github.io/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>http://alexmarechal.com/tags/rewrite/</link>
+      <link>https://marechalalex.github.io/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/rewrite/</guid>
+      <guid>https://marechalalex.github.io/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>http://alexmarechal.com/tags/ssl/</link>
+      <link>https://marechalalex.github.io/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/ssl/</guid>
+      <guid>https://marechalalex.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>http://alexmarechal.com/tags/web-development/</link>
+      <link>https://marechalalex.github.io/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/web-development/</guid>
+      <guid>https://marechalalex.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fourier Motzkin</title>
-      <link>http://alexmarechal.com/tags/fourier-motzkin/</link>
+      <link>https://marechalalex.github.io/tags/fourier-motzkin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/fourier-motzkin/</guid>
+      <guid>https://marechalalex.github.io/tags/fourier-motzkin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyhedra</title>
-      <link>http://alexmarechal.com/tags/polyhedra/</link>
+      <link>https://marechalalex.github.io/tags/polyhedra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/tags/polyhedra/</guid>
+      <guid>https://marechalalex.github.io/tags/polyhedra/</guid>
       <description></description>
     </item>
     

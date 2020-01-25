@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>abstract interpretation on Alexandre Maréchal</title>
-    <link>http://alexmarechal.com/tags/abstract-interpretation/</link>
+    <link>https://marechalalex.github.io/tags/abstract-interpretation/</link>
     <description>Recent content in abstract interpretation on Alexandre Maréchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://alexmarechal.com/tags/abstract-interpretation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marechalalex.github.io/tags/abstract-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
-      <link>http://alexmarechal.com/publications/jar2018/</link>
+      <link>https://marechalalex.github.io/publications/jar2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/publications/jar2018/</guid>
+      <guid>https://marechalalex.github.io/publications/jar2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyhedral Approximation of Multivariate Polynomials using Handelman&#39;s Theorem</title>
-      <link>http://alexmarechal.com/publications/vmcai2016/</link>
+      <link>https://marechalalex.github.io/publications/vmcai2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/publications/vmcai2016/</guid>
+      <guid>https://marechalalex.github.io/publications/vmcai2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
-      <link>http://alexmarechal.com/publications/itp2015/</link>
+      <link>https://marechalalex.github.io/publications/itp2015/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/publications/itp2015/</guid>
+      <guid>https://marechalalex.github.io/publications/itp2015/</guid>
       <description></description>
     </item>
     

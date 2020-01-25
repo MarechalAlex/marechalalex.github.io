@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enseignement on Alexandre Maréchal</title>
-    <link>http://alexmarechal.com/teaching/</link>
+    <link>https://marechalalex.github.io/teaching/</link>
     <description>Recent content in Enseignement on Alexandre Maréchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://alexmarechal.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marechalalex.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://alexmarechal.com/teaching/java/</link>
+      <link>https://marechalalex.github.io/teaching/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/teaching/java/</guid>
+      <guid>https://marechalalex.github.io/teaching/java/</guid>
       <description>L&amp;rsquo;apprentissage des principales notions de Programmation Orientée Objet (POO), ainsi que leur mise en pratique avec le langage Java.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Classes et objets, principe d&amp;rsquo;encapsulation&lt;/li&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title></title>
-      <link>http://alexmarechal.com/teaching/ocaml/</link>
+      <link>https://marechalalex.github.io/teaching/ocaml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/teaching/ocaml/</guid>
+      <guid>https://marechalalex.github.io/teaching/ocaml/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Types simples, produit, somme ; vérification et inférence de type&lt;/li&gt;
 &lt;li&gt;Fonctions : spécification, réalisation&lt;/li&gt;

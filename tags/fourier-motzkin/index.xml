@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fourier Motzkin on Alexandre Maréchal</title>
-    <link>http://alexmarechal.com/tags/fourier-motzkin/</link>
+    <link>https://marechalalex.github.io/tags/fourier-motzkin/</link>
     <description>Recent content in Fourier Motzkin on Alexandre Maréchal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://alexmarechal.com/tags/fourier-motzkin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marechalalex.github.io/tags/fourier-motzkin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Verified Polyhedra Library</title>
-      <link>http://alexmarechal.com/projects/vpl/</link>
+      <link>https://marechalalex.github.io/projects/vpl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexmarechal.com/projects/vpl/</guid>
+      <guid>https://marechalalex.github.io/projects/vpl/</guid>
       <description></description>
     </item>
     
