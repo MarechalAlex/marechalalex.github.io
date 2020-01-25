@@ -1,0 +1,12 @@
+
+    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+      <div class="publication-content mr-auto">
+        <h3 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.role }}</a></h3>
+        <div class="subheading mb-3">{{ .Params.company | markdownify }}</div>
+        <!-- <p>{{ .Params.summary | markdownify }}</p> -->
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">{{ .Params.range }}</span>
+        <p class="subheading2 mb-3">{{ .Params.year }}</p>
+      </div>
+    </div>

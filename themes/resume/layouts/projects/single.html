@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+      <h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <div class="resume-item d-flex flex-column flex-md-row mb-3">
+
+        <div class="resume-content " style="width:200px;!important;">
+          {{with  .Params.image }}
+            <img src="{{ . }}" style="max-height:150px;max-width:150px;"/>
+          {{ end }}
+        </div>
+        <div class="resume-date">
+          <p>{{ .Description | safeHTML }}<p>
+        </div>
+      </div>
+      <div>{{ partial "techtags" . }}</div>
+    </div>
+</section>
+{{ end }}

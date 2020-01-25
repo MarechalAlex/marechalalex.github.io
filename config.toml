@@ -1,0 +1,38 @@
+baseURL = "http://alexmarechal.com/"
+languageCode = "en-us"
+title = "Alexandre Maréchal"
+theme = "resume"
+
+[params]
+    firstName = "Alexandre"
+    lastName = "Maréchal"
+    address = "Verimag, Grenoble, France"
+    # phone = "1-555-555-1234"
+    contactNote = "Docteur en informatique"
+    profileImage = "img/thesis.jpg"
+    email = "alex.marechal@univ-grenoble-alpes.fr"
+    #description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    # favicon = "/favicon.ico"
+    # what sections
+    showProjects = true
+    showTeaching = true
+    showPublications = true
+    # showCV = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://fr.linkedin.com/in/alexandre-mar%C3%A9chal-3a3610125"
+
+[[params.handles]]
+    name = "ResearchGate"
+    link = "https://www.researchgate.net/profile/Alexandre_Marechal"
+
+[[params.handles]]
+    name = "Github"
+    link = "https://github.com/MarechalAlex?tab=overview&from=2019-12-01&to=2019-12-31"
+
+[[params.handles]]
+   name = "CV"
+   icon = "address-card"
+   # img = "/img/cv.png"
+   link = "/pdf/CV.pdf"
