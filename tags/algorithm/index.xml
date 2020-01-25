@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithm on Alexandre Maréchal</title>
+    <link>http://alexmarechal.com/tags/algorithm/</link>
+    <description>Recent content in algorithm on Alexandre Maréchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alexmarechal.com/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Coq Tactic for Equality Learning in Linear Arithmetic</title>
+      <link>http://alexmarechal.com/publications/itp2018/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/itp2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Minimizing-Operators on Polyhedra via Parametric Linear Programming</title>
+      <link>http://alexmarechal.com/publications/sas2017/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/sas2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Elimination of Redundancies in Polyhedra by Raytracing</title>
+      <link>http://alexmarechal.com/publications/vmcai2017/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/vmcai2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

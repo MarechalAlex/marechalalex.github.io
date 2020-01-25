@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>convex polyhedra on Alexandre Maréchal</title>
+    <link>http://alexmarechal.com/tags/convex-polyhedra/</link>
+    <description>Recent content in convex polyhedra on Alexandre Maréchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alexmarechal.com/tags/convex-polyhedra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
+      <link>http://alexmarechal.com/publications/jar2018/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/jar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Verified Polyhedron Library: an overview</title>
+      <link>http://alexmarechal.com/publications/synacs2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/synacs2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Minimizing-Operators on Polyhedra via Parametric Linear Programming</title>
+      <link>http://alexmarechal.com/publications/sas2017/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/sas2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Elimination of Redundancies in Polyhedra by Raytracing</title>
+      <link>http://alexmarechal.com/publications/vmcai2017/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/vmcai2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyhedral Approximation of Multivariate Polynomials using Handelman&#39;s Theorem</title>
+      <link>http://alexmarechal.com/publications/vmcai2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/vmcai2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
+      <link>http://alexmarechal.com/publications/itp2015/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/itp2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

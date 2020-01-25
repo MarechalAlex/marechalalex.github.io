@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Alexandre Maréchal</title>
+    <link>http://alexmarechal.com/</link>
+    <description>Recent content in Home on Alexandre Maréchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="http://alexmarechal.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
+      <link>http://alexmarechal.com/publications/jar2018/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/jar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Verified Polyhedron Library: an overview</title>
+      <link>http://alexmarechal.com/publications/synacs2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/synacs2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Coq Tactic for Equality Learning in Linear Arithmetic</title>
+      <link>http://alexmarechal.com/publications/itp2018/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/itp2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Minimizing-Operators on Polyhedra via Parametric Linear Programming</title>
+      <link>http://alexmarechal.com/publications/sas2017/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/sas2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Elimination of Redundancies in Polyhedra by Raytracing</title>
+      <link>http://alexmarechal.com/publications/vmcai2017/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/vmcai2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyhedral Approximation of Multivariate Polynomials using Handelman&#39;s Theorem</title>
+      <link>http://alexmarechal.com/publications/vmcai2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/vmcai2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
+      <link>http://alexmarechal.com/publications/itp2015/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/publications/itp2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>http://alexmarechal.com/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexmarechal.com/teaching/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/teaching/java/</guid>
+      <description>L&amp;rsquo;apprentissage des principales notions de Programmation Orientée Objet (POO), ainsi que leur mise en pratique avec le langage Java.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classes et objets, principe d&amp;rsquo;encapsulation&lt;/li&gt;
+&lt;li&gt;Héritage et polymorphisme, abstraction, interfaces&lt;/li&gt;
+&lt;li&gt;Utilisation d&amp;rsquo;exceptions&lt;/li&gt;
+&lt;li&gt;Interfaces graphiques en Swing&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexmarechal.com/teaching/ocaml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/teaching/ocaml/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Types simples, produit, somme ; vérification et inférence de type&lt;/li&gt;
+&lt;li&gt;Fonctions : spécification, réalisation&lt;/li&gt;
+&lt;li&gt;Composition fonctionnelle et conditionnelle ; analyse descendante, analyse par cas&lt;/li&gt;
+&lt;li&gt;Définitions récursives de types et de fonctions ; analyse récurrente, équations récursives, modèles d&amp;rsquo;analyse&lt;/li&gt;
+&lt;li&gt;Constructeurs de types complexes : naturels de Peano, séquences, arbres binaires, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Ordre supérieur : introduction, lambda-notation, fonctions anonymes, description de schémas de programmes&lt;/li&gt;
+&lt;li&gt;Expérimentation sur machine : langage : Ocaml ; exploitation des informations fournies par l&amp;rsquo;interprète du langage (messages d&amp;rsquo;erreurs, vérification et inférence de type) ; problématique de test et de mise au point des programmes : observation de traces d&amp;rsquo;exécution.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://alexmarechal.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>Verified Polyhedra Library</title>
+      <link>http://alexmarechal.com/projects/vpl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexmarechal.com/projects/vpl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
