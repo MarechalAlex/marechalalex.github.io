@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</title>
+  <meta property="og:title" content="Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra" />
+  <meta property="og:image" content="https://marechalalex.github.io/img/thesis.jpg" />
+  <meta name="description" content="">
+  <meta property="og:description" content="" />
+  <meta name="author" content="Alexandre Maréchal">
+  
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
+  
+  <link href="https://marechalalex.github.io/css/resume.css" rel="stylesheet">
+  <link href="https://marechalalex.github.io/css/tweaks.css" rel="stylesheet">
+  <meta name="generator" content="Hugo 0.63.1" />
+  
+   
+  
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <span class="d-block d-lg-none">Alexandre Maréchal</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/thesis.jpg" alt="">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#about">Accueil</a>
+      </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#projects">Projets</a>
+          </li>
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#teaching">Enseignement</a>
+          </li>
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</nav>
+
+  <div class="container-fluid p-0">
+    
+
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+    <h3><span>Sylvain Boulmé, Alexandre Maréchal - November 2018</span></h3>
+    <h2 class="mb-0"><span class="text-primary">Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra</span></h2>
+    <p><span>Our concern is the modular development of a certified static analyzer in the Coq proof assistant. We focus on the extension of the Verified Polyhedra Library—a certified abstract domain of convex polyhedra—with a linearization procedure to handle polynomial guards. Based on ring rewriting strategies and interval arithmetic, this procedure partitions the variable space to infer precise affine terms which over-approximate polynomials. In order to help formal development, we propose a proof framework, embedded in Coq, that implements a refinement calculus. It is dedicated to the certification of parts of the analyzer—like our linearization procedure—whose correctness does not depend on the implementation of the underlying certified abstract domain. Like standard refinement calculi, it introduces data-refinement diagrams. These diagrams relate “abstract states” computed by the analyzer to “concrete states” of the input program. However, our notions of “specification” and “implementation” are exchanged w.r.t. standard uses: the “specification” (computing on “concrete states”) refines the “implementation” (computing on “abstract states”). Our stepwise refinements of specifications hide several low-level aspects of the computations on abstract domains. In particular, they ignore that the latter may use hints from external untrusted imperative oracles (e.g. a linear programming solver). Moreover, refinement proofs are naturally simplified thanks to computations of weakest preconditions. Using our refinement calculus, we elegantly define our partitioning procedure with a continuation-passing style, thus avoiding an explicit datatype of partitions. This illustrates that our framework is convenient to prove the correctness of such higher-order imperative computations on abstract domains.</span></p>
+    <p><a href="https://hal.archives-ouvertes.fr/hal-01133865">Lien vers article complet</a></p>
+    
+    
+    <p class="mt-3">
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/coq">coq</a></li>
+    
+      <li><a class="tag" href="/tags/convex-polyhedra">convex polyhedra</a></li>
+    
+      <li><a class="tag" href="/tags/result-certification">result certification</a></li>
+    
+      <li><a class="tag" href="/tags/abstract-interpretation">abstract interpretation</a></li>
+    
+      <li><a class="tag" href="/tags/linearization">linearization</a></li>
+    
+</ul>
+
+    </p>
+  </div>
+</section>
+
+
+    <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
+    
+  </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  
+  <script src="/js/resume.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '');
+  </script>
+  
+
+  
+</body>
+</html>
