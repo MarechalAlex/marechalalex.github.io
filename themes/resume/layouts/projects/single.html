@@ -11,7 +11,13 @@
           {{ end }}
         </div>
         <div class="resume-date">
-          <p>{{ .Description | safeHTML }}<p>
+          <p>{{ .Description | safeHTML }}
+              {{ if .Params.onlinedoc }}
+                 <br><br><b>Online documentation: </b>
+                 <a href="{{ .Site.BaseURL }}{{ .Params.onlinedoc }}">{{ .Params.onlinename }}</a>
+              {{ end }}
+          <p>
+
         </div>
       </div>
       <div>{{ partial "techtags" . }}</div>
